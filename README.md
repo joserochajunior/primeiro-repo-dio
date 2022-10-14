@@ -1,2 +1,2 @@
-# primeiro-repo-dio
+# Repositorio para estudo
 Primeiro repositorio para estudo Git/GitHub. DIO
